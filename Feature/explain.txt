@@ -1,0 +1,47 @@
+Festure :orders history
+
+scenario:As a normal...self
+    given a normal user
+    when i click on history
+    and i have order placed earlier
+    then i should be able to view the orders details
+
+as an super...underlying users
+as a admin...
+i can approve and reject
+
+
+1. Python code to work with files
+example: xls,xlsx,txt files
+
+2.Behave -very basic code....not implementing major topics python
+    parameterisation-- provind some examples to implement same code
+
+    Addition :
+    5 sets
+
+    Multiplication
+    5 sets
+
+
+future plan:
+===========
+relevant case study for all proj - why
+Python code -- excel advance- inserting images,file handling
+Selenium with python binding [python code will import selenium api and work on a website]- what
+Pytest framework utilisation- work flow or execution control-- when ,how
+Behave code
+
+o/p
+Document for python - started
+document - Bdd
+
+
+tools and installation
+pip modules required
+IDE- pycharm,spyder,jupyter notebook
+
+
+
+
+
